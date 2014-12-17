@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Noticias</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="default_titulo">Titulo de la Noticia</string>
+    <string name="default_autor">Publicador de la Noticia</string>
+    <string name="default_fecha">Fecha de la Noticia</string>
+    <string name="default_tags">Tags de la Noticia</string>
+    <string name="default_contenido">Contenido de la Noticia</string>
+    <string name="default_resumen">Resumen de la Noticia</string>
+    <string name="default_likes">Likes de la Noticia</string>
+    <string name="default_link">Link a la Noticia</string>
+    <string name="descripcion_imagen">Imagen de la Noticia</string>
+    <string name="default_searchWord">chile</string>
+    <string name="search">Buscar</string>
+
+</resources>
